@@ -1,0 +1,2 @@
+# veruscoin
+miner
